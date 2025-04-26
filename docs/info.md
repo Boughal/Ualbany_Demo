@@ -12,7 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 
  We put a  And gate on a chip that will turn on and off the led
 ## How to test
-Turn Off and ON the first two swithc inputs
+Turn Off and ON the first two switch inputs
 ## T
 ## External hardware
 
