@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
 
+ We put a  And gate on a chip that will turn on and off the led
 ## How to test
-
-Explain how to use your project
-
+Turn Off and ON the first two swithc inputs
+## T
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
